@@ -10,8 +10,12 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
-            employee.SayName();
+            //Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
+            //employee.SayName();
+            //Console.ReadLine();
+
+            IQuittable quit = new Employee() { firstName = "Justin", lastName = "Seymour" };
+            quit.Quit();
             Console.ReadLine();
         }
     }
