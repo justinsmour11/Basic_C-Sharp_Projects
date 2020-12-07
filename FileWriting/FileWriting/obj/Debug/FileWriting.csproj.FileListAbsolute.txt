@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\bin\Debug\FileWriting.exe.config
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\bin\Debug\FileWriting.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\bin\Debug\FileWriting.pdb
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\obj\Debug\FileWriting.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\obj\Debug\FileWriting.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\obj\Debug\FileWriting.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\FileWriting\FileWriting\obj\Debug\FileWriting.pdb
